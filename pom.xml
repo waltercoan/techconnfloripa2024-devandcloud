@@ -11,7 +11,7 @@
 	<artifactId>app-palestra</artifactId>
 	<version>0.0.1-SNAPSHOT</version>
 	<name>app-palestra</name>
-	<description>DEVOPS HERO 2024 SETEMBRO</description>
+	<description>TECH CONNECTION - Floripa Talk 2024</description>
 	<properties>
 		<java.version>17</java.version>
 		<spring-cloud-azure.version>5.12.0</spring-cloud-azure.version>
