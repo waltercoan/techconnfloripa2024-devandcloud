@@ -5,7 +5,9 @@
 ### Tecnologias
 [![My Skills](https://skillicons.dev/icons?i=azure,java,spring,linux)](https://skillicons.dev)
 
-### Proposta
+### Fotos
+![Foto](img/img1.jpg)
+![Foto](img/img2.jpg)
 
 ### Slides
 - [Download](slides/waltercoan_techconnectionfloripa24_v1.pdf)
